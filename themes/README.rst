@@ -1,5 +1,5 @@
 #####################
-Comprehensive Theming
+Comprehensive Theming for kns-it
 #####################
 
 
